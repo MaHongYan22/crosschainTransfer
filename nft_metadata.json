@@ -1,0 +1,15 @@
+{
+    "name": "MHY",
+    "description": "This is an example NFT.",
+    "image": "ipfs://QmWY238XrRqUXjRo63PpkAvq22CLj1w5hyxCHZHRnBmEaz",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Smiling"
+        }
+    ]
+}
